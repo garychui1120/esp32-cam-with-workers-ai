@@ -21,7 +21,7 @@
 const char* ssid = "YOUR WIFI SSID";
 const char* password = "YOUR WIFI PASSWORD";
 
-String serverName = "esp32-cam-with-workers-ai.{your-workers-username}.workers.dev";
+String serverName = "esp32-cam-with-workers-ai.garychui1120.workers.dev";
 
 String serverPath = "/upload";
 
