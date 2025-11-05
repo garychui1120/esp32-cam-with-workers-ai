@@ -1,5 +1,5 @@
 {
-  "name": "esp32-cam-with-workers-ai",
+  "name": "my-first-worker",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "cf-typegen": "wrangler types"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250124.3",
+    "@cloudflare/workers-types": "^4.20251105.3",
     "typescript": "^5.5.2",
     "wrangler": "^3.105.1"
   }

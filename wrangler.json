@@ -1,11 +1,11 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "esp32-cam-with-workers-ai",
+	"name": "my-first-worker",
 	"main": "src/index.ts",
 	"compatibility_flags": [
 		"nodejs_compat"
 	],
-	"compatibility_date": "2025-01-24",
+	"compatibility_date": "2025-10-05",
 	"observability": {
 		"enabled": true
 	},
